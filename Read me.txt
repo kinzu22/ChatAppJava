@@ -8,4 +8,4 @@ Khởi chạy server: "java ChatServer"
 Khởi chạy client: "java ChatClient" (Khởi chạy 2 client để lấy 2 thằng chat với nhau)
 
 Đây là chương trình chat viết bằng java. Sau khi khởi chạy server và 2 client thì 2 client có thể chat với nhau bằng socket trên localhost
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaa hihihaha
